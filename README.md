@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Fortinet technician in South Africa, and Coding is my passion/hobby.
+Coding is my passion/hobby.
 
 - 🔭 I’m currently working on [Duino-Coin](https://github.com/revoxhere/duino-coin/tree/master) and [Duino-Coin-Server](https://github.com/revoxhere/duino-coin/tree/master) as well as my own website [Node-S](http://www.node-s.co.za)
 
