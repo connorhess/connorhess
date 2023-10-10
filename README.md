@@ -2,8 +2,9 @@
 
 Coding is my passion/hobby.
 
+<!--
 - 🔭 I’m currently working on [Duino-Coin](https://github.com/revoxhere/duino-coin/tree/master) and [Duino-Coin-Server](https://github.com/revoxhere/duino-coin/tree/master) as well as my own website [Node-S](http://www.node-s.co.za)
-
+-->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=connorhess)](https://github.com/ryo-ma/github-profile-trophy)
