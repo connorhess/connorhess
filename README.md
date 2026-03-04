@@ -13,7 +13,7 @@ I'm a passionate IoT and backend developer working remotely from Cape Town, Sout
 
 ## 💼 Professional Focus
 
-- 🏢 **Current Role:** Junior Engineer at NEC XON (Nov 2023 - Present)
+- 🏢 **Current Role:** Full Stack Developer at NEC XON (Nov 2023 - Present)
 - 🔧 **Specialization:** Backend design and development for IoT platforms
 - 📡 **Key Expertise:** Critical infrastructure monitoring, facilities monitoring, fridge monitoring, and remote IoT applications
 - 🎓 **Training:** CropScope product expert and trainer
