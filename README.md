@@ -76,6 +76,8 @@ Results-driven Full Stack Developer with 3+ years of professional experience at 
 **Certifications:**
 - **PSE Associate** – Palo Alto Networks (May 2023)
   - Next Generation Firewall · PAN-OS
+- **Basic Certified** – Teltonika (Apr 2026)
+  - For completing the Basic Certified training · Cert. No 531
 
 ## 🏆 Achievements
 
