@@ -6,7 +6,7 @@
 
 **Full Stack Developer · DevOps** | Cape Town, South Africa
 
-Results-driven Full Stack Developer with 3+ years of professional experience at NEC XON, specialising in ISP and satellite communication monitoring systems, DevOps pipelines, and agricultural technology platforms. Self-taught from an early age with a strong foundation in networking, server infrastructure, and software development. Founder of Keyword Technology (PTY) LTD. Passionate about automation, scalable systems, and building practical solutions across the full stack.
+Results-driven Full Stack Developer with 3+ years of professional experience at NEC XON, specialising in ISP and satellite communication monitoring systems, DevOps pipelines, and agricultural technology platforms. I also started Nyxo, a hospitality product suite for hotels and restaurants, including NyxoPOS and NyxoHMS, focused on bookings, booking payments, and integrations with NightsBridge and Dineplan. Self-taught from an early age with a strong foundation in networking, server infrastructure, and software development. Founder of Keyword Technology (PTY) LTD. Passionate about automation, scalable systems, and building practical solutions across the full stack.
 
 📧 hessconnor41@gmail.com &nbsp;|&nbsp; 📍 Cape Town, SA &nbsp;|&nbsp; 🚗 Code B Driver's Licence
 
